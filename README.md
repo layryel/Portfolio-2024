@@ -3,10 +3,12 @@ Repositório para agrupar arquivos referentes aos cursos, apresentações e trab
 ##
 
 <div align="center">
+  <div class="row">
 <h4> Principais registros: </h4>
   <img width="500" src="https://github.com/layryel/Portfolio-2024/blob/f82134d0b4dc2a6771c6c9536c3af798d0c562c4/TCC/Feira%20Tecnol%C3%B3gica/Apresenta%C3%A7%C3%A3o%20Feira%20Tecnol%C3%B3gica%20-%2029112024/01.png"><br>
   <img width="500" src="https://github.com/layryel/Portfolio-2024/blob/f82134d0b4dc2a6771c6c9536c3af798d0c562c4/TCC/Pitch%20-%20Final%20Ingl%C3%AAs/PITCH%20Final%20-%2020112024/01.png">  
   <br><br>
+</div>
 </div>
 
 ##
